@@ -3,5 +3,5 @@
 require_relative "../lib/kid"
 require_relative "../lib/dancer"
 
-puts Kid.metadata
-puts Dancer.metadata
+Dancer.metadata
+Kid.metadata
